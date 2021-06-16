@@ -1,1 +1,1 @@
-[{"server":"103.75.14.218","server_port":11028,"password":"12345678","method":"aes-256-gcm","remarks":"14.218","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
+[{"server":"103.75.14.218","server_port":11027,"password":"12345689","method":"aes-256-gcm","remarks":"14.218","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
